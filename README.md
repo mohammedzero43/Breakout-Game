@@ -17,3 +17,6 @@ Esc : Exit Game
 # PowerUps:
 4 Combo : Expand player pad
 5 Combo : FireBall
+
+# Errors
+Stack Dumb Error in VC++ - Collision checking loops (Solution : increase loops from 8 to 52. <or find another solution>) 
