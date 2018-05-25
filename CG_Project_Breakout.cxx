@@ -1,13 +1,6 @@
-/* CG_Project_BreakOut
- ============================================
- * Mohamed Salah Eltawil - U14111450
- * Mohammed Hesham Salah - U14112100
- * Eva Majed HabeebAllah - U14121210
- * Omar Mohamad Gouda    - U15104653
- ============================================
- * OS: Microsoft Windows 10, Release 1709
- * Compiler : VC++ - Visual Studio 2017 15.6.7 
- * Also Tested on :gcc-g++ version 7.3.1 20180303 / Linux 4.15.17-300.fc28.x86_64
+/* Author : Mohammed Eltawil // mohammedzero43@gmail.com
+ * OS:  Linux 4.15.17-300.fc28.x86_64
+ * Compiler : gcc-g++ version 7.3.1 20180303 
 */
 #define M_PI       3.14159265358979323846   // pi
 //BREAKOUT GAME////
